@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const port = 3859; 
+const port = process.env.process || 3859; 
 const router = require('./controllers')
 require("./db-driver")
 
