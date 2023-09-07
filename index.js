@@ -1,6 +1,8 @@
 const express = require('express');
 const app = express();
-const port = process.env.process || 3859; 
+require('dotenv').config();
+
+const port = process.env.PORT; 
 const router = require('./controllers')
 require("./db-driver")
 

@@ -2,6 +2,10 @@ const express = require("express")
 const router = express.Router()
 const models = require("./models")
 
+router.get('/health', (req, res) => {
+  res.status(200).json({ status: 'healthy' });
+});
+
 router.get("/characters", async (req, res) => {
   try {
     const characters = await models.Character.aggregate([

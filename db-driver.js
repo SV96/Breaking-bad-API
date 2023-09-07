@@ -1,6 +1,7 @@
 const mongoose = require('mongoose');
+require('dotenv').config();
 
-mongoose.connect('mongodb+srv://thevipinmishra:l37hi0XHrP7swyli@cluster0.l6ur14n.mongodb.net/Breaking-bad');
+mongoose.connect(`${process.env.DATABASE}/Breaking-bad`);
 
 mongoose.connection.on('connected', () => {
   console.log('Connected to MongoDB');
