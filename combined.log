@@ -1,0 +1,75 @@
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 17:11:53"}
+{"level":"info","message":"Connected to MongoDB","service":"your-service-name","timestamp":"2023-09-07 17:11:56"}
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 17:12:11"}
+{"level":"info","message":"Connected to MongoDB","service":"your-service-name","timestamp":"2023-09-07 17:12:14"}
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 17:13:26"}
+{"level":"info","message":"Connected to MongoDB","service":"your-service-name","timestamp":"2023-09-07 17:13:29"}
+{"level":"info","message":"Character API is working","service":"your-service-name","timestamp":"2023-09-07 17:13:36"}
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 17:17:40"}
+{"level":"info","message":"Connected to MongoDB","service":"your-service-name","timestamp":"2023-09-07 17:17:43"}
+{"level":"error","message":"Failed to retrieve public IP address.","service":"your-service-name","timestamp":"2023-09-07 17:17:58"}
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 17:18:16"}
+{"level":"info","message":"Connected to MongoDB","service":"your-service-name","timestamp":"2023-09-07 17:18:20"}
+{"level":"info","message":"Public IP Address: 42.108.197.14","service":"your-service-name","timestamp":"2023-09-07 17:18:22"}
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 17:18:42"}
+{"level":"info","message":"Connected to MongoDB","service":"your-service-name","timestamp":"2023-09-07 17:18:45"}
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 17:18:52"}
+{"level":"info","message":"Connected to MongoDB","service":"your-service-name","timestamp":"2023-09-07 17:18:55"}
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 17:19:08"}
+{"level":"info","message":"Connected to MongoDB","service":"your-service-name","timestamp":"2023-09-07 17:19:11"}
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 17:19:23"}
+{"level":"info","message":"Connected to MongoDB","service":"your-service-name","timestamp":"2023-09-07 17:19:26"}
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 17:19:27"}
+{"level":"info","message":"Connected to MongoDB","service":"your-service-name","timestamp":"2023-09-07 17:19:30"}
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 17:20:48"}
+{"level":"info","message":"Connected to MongoDB","service":"your-service-name","timestamp":"2023-09-07 17:20:53"}
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 17:21:16"}
+{"level":"info","message":"Connected to MongoDB","service":"your-service-name","timestamp":"2023-09-07 17:21:19"}
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 17:21:22"}
+{"level":"info","message":"Connected to MongoDB","service":"your-service-name","timestamp":"2023-09-07 17:21:25"}
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 17:21:29"}
+{"level":"info","message":"Connected to MongoDB","service":"your-service-name","timestamp":"2023-09-07 17:21:31"}
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 17:21:32"}
+{"level":"info","message":"Connected to MongoDB","service":"your-service-name","timestamp":"2023-09-07 17:21:35"}
+{"level":"info","message":"server is working","service":"your-service-name","timestamp":"2023-09-07 17:21:38"}
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 17:22:07"}
+{"level":"info","message":"Connected to MongoDB","service":"your-service-name","timestamp":"2023-09-07 17:22:10"}
+{"level":"info","message":"server is working","service":"your-service-name","timestamp":"2023-09-07 17:22:12"}
+{"level":"info","message":"Server IP address is undefined","service":"your-service-name","timestamp":"2023-09-07 17:22:12"}
+{"level":"error","message":"Failed to retrieve public IP address.","service":"your-service-name","timestamp":"2023-09-07 17:22:12"}
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 17:22:31"}
+{"level":"info","message":"Connected to MongoDB","service":"your-service-name","timestamp":"2023-09-07 17:22:35"}
+{"level":"info","message":"Public IP Address: 42.108.197.14","service":"your-service-name","timestamp":"2023-09-07 17:22:47"}
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 17:23:12"}
+{"level":"info","message":"Connected to MongoDB","service":"your-service-name","timestamp":"2023-09-07 17:23:16"}
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 17:23:21"}
+{"level":"info","message":"Connected to MongoDB","service":"your-service-name","timestamp":"2023-09-07 17:23:24"}
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 17:23:36"}
+{"level":"info","message":"Connected to MongoDB","service":"your-service-name","timestamp":"2023-09-07 17:23:39"}
+{"level":"error","message":"Failed to retrieve public IP address.","service":"your-service-name","timestamp":"2023-09-07 17:23:42"}
+{"level":"info","message":"server is working","service":"your-service-name","timestamp":"2023-09-07 17:23:42"}
+{"level":"info","message":"Server IP address is undefined","service":"your-service-name","timestamp":"2023-09-07 17:23:42"}
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 17:24:24"}
+{"level":"info","message":"server is working","service":"your-service-name","timestamp":"2023-09-07 17:24:26"}
+{"level":"info","message":"Server IP address is undefined","service":"your-service-name","timestamp":"2023-09-07 17:24:26"}
+{"level":"info","message":"Public IP Address: 42.108.197.14","service":"your-service-name","timestamp":"2023-09-07 17:24:27"}
+{"level":"info","message":"Connected to MongoDB","service":"your-service-name","timestamp":"2023-09-07 17:24:28"}
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 17:24:31"}
+{"level":"info","message":"Connected to MongoDB","service":"your-service-name","timestamp":"2023-09-07 17:24:34"}
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 17:24:53"}
+{"level":"info","message":"Connected to MongoDB","service":"your-service-name","timestamp":"2023-09-07 17:24:56"}
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 17:25:10"}
+{"level":"info","message":"server is working","service":"your-service-name","timestamp":"2023-09-07 17:25:12"}
+{"level":"info","message":"********* Server IP address is *********undefined","service":"your-service-name","timestamp":"2023-09-07 17:25:12"}
+{"level":"info","message":"Public IP Address: 42.108.197.14","service":"your-service-name","timestamp":"2023-09-07 17:25:13"}
+{"level":"info","message":"Connected to MongoDB","service":"your-service-name","timestamp":"2023-09-07 17:25:13"}
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 17:25:33"}
+{"level":"info","message":"server is working","service":"your-service-name","timestamp":"2023-09-07 17:25:35"}
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 17:25:43"}
+{"level":"info","message":"server is working","service":"your-service-name","timestamp":"2023-09-07 17:25:44"}
+{"level":"info","message":"Server IP address is undefined","service":"your-service-name","timestamp":"2023-09-07 17:25:44"}
+{"level":"info","message":"Public IP Address: 42.108.197.14","service":"your-service-name","timestamp":"2023-09-07 17:25:45"}
+{"level":"info","message":"Connected to MongoDB","service":"your-service-name","timestamp":"2023-09-07 17:25:46"}
+{"level":"info","message":"server is working","service":"your-service-name","timestamp":"2023-09-07 17:25:56"}
+{"level":"info","message":"Server IP address is undefined","service":"your-service-name","timestamp":"2023-09-07 17:25:56"}
+{"level":"info","message":"Public IP Address: 42.108.197.14","service":"your-service-name","timestamp":"2023-09-07 17:25:57"}

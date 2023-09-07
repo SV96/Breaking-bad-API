@@ -1,8 +1,15 @@
 const express = require("express")
 const router = express.Router()
 const models = require("./models")
+const logger = require('./logger')
+const axios = require('axios');
+const { checkIpAddress } = require('./utils')
 
-router.get('/health', (req, res) => {
+
+router.get('/health',async (req, res) => {
+  const IPAddress = await checkIpAddress()
+  logger.info('server is working')
+  logger.info(`Server IP address is ${IPAddress}`)
   res.status(200).json({ status: 'healthy' });
 });
 
@@ -75,9 +82,10 @@ router.get("/characters", async (req, res) => {
         }
       }
     ])
-
+    logger.info('Character API is working')
     res.json(characters)
   } catch (error) {
+    logger.error('Character API Error:',error)
     res.status(500).json({ error: "Error fetching characters" })
   }
 })
