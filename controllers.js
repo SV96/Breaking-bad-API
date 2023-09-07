@@ -2,14 +2,14 @@ const express = require("express")
 const router = express.Router()
 const models = require("./models")
 const logger = require('./logger')
-const axios = require('axios');
 const { checkIpAddress } = require('./utils')
 
 
 router.get('/health',async (req, res) => {
   const IPAddress = await checkIpAddress()
   logger.info('server is working')
-  logger.info(`Server IP address is ${IPAddress}`)
+  logger.info(`Server IP address is ${IPAddress
+  }`)
   res.status(200).json({ status: 'healthy' });
 });
 

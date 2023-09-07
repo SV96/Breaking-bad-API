@@ -73,3 +73,6 @@
 {"level":"info","message":"server is working","service":"your-service-name","timestamp":"2023-09-07 17:25:56"}
 {"level":"info","message":"Server IP address is undefined","service":"your-service-name","timestamp":"2023-09-07 17:25:56"}
 {"level":"info","message":"Public IP Address: 42.108.197.14","service":"your-service-name","timestamp":"2023-09-07 17:25:57"}
+{"level":"info","message":"Server is running on port 3859","service":"your-service-name","timestamp":"2023-09-07 18:00:40"}
+{"level":"info","message":"Connected to MongoDB","service":"your-service-name","timestamp":"2023-09-07 18:00:43"}
+{"level":"info","message":"Character API is working","service":"your-service-name","timestamp":"2023-09-07 18:00:52"}
